@@ -1,6 +1,7 @@
 # Requirements
 ## Introduction
- --- TBD 
+ In todays situation it is very difficult task to get the details of each student and update or modify his/her details. so to make an easy task for the school management to get and store the details of each and every student. 
+ 
 
 ## Research
 ![Description](Link to Pic)
