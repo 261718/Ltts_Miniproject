@@ -4,12 +4,19 @@
  
 
 ## Research
-# Student Record Software System Features and Benefits
+## Student Record Software System Features and Benefits
 Student Record System mainly provides the current status of each and every student. It mainly used in our daily life mainly in educational institutes like schools, colleges and university, like fee due updations, marks sheet , attendance, personal details. So by doing this we can get the details of every student in a fraction of seconds.
-# Benefits
+## Benefits
 In Student record system offers a several benefits. some of them are:
+## Better Administration
+With the help of a student data management system, it becomes super convenient to brings better administration to your institutions. As it covers all the departments and connects them in a single platform.
+## Easy Time-table Management
+You are in better control when it comes to operational aspects with the implementation of a student information system. One such operation is managing the timetables for your institute. Usually, this is one job that takes up a lot of time that could have been better invested in other better activities.
+## Student-centric Ecosystem
+One of the key benefits of these systems is that the user can track each and everything done by your students. This includes performance in extracurricular activities, sports, and others. In this age, where there is such great emphasis on helping students realize their true potential in life instead of creating robots, this is a great technology to have.
+## Seamless Workflow
+Futuristic student record management system is inbuilt with robust dashboards & analytics, which makes it easier for you to track what work completed and by whom, and what’s pending. The best thing is you get all the necessary information on a single screen, which helps you get a broader picture of overall data.
 
--- Content 
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
