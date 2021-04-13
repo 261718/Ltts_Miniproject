@@ -21,7 +21,9 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+    
+    
+    
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
@@ -45,7 +47,7 @@ This kind of software is used in any where to store student details.
 
 ## How:
 
-**TBD**
+This can be done by aquiring the knowledge on computer and the latest technology, we can store and manage the students database.
 
 # Detail requirements
 ## High Level Requirements:
