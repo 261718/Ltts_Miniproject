@@ -22,6 +22,7 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 -- Content 
 ## Defining Our System
 This is the work flow of our system
+https://github.com/261718/Ltts_Miniproject/blob/e420fd40b792f96b892555422d5370a503bc67bc/1.Requirements/Screenshot%20(1967).png
 
    
     
