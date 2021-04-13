@@ -22,6 +22,7 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 -- Content 
 ## Defining Our System
 This is the work flow of our system
+1.Requirements/Screenshot (1967).png
    
     
     
