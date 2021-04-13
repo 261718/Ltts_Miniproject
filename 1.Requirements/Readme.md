@@ -29,7 +29,7 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 
 ## Who:
 
-**TBD**
+Now a days even government schools are also using this software to get the student record in a fraction of seconds
 
 ## What:
 
@@ -37,11 +37,11 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 
 ## When:
 
-**TBD**
+It is more useful when there is large group of students , so we can store and retreive the information in a simple way.
 
 ## Where:
 
-**TBD**
+This kind of software is used in any where to store student details.
 
 ## How:
 
