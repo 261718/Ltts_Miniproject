@@ -65,5 +65,12 @@ This can be done by aquiring the knowledge on computer and the latest technology
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID        | Description          | HR ID  | status |
+| ------------- |:-------------:| -----:| ------:|
+| LR01          | Admin can update new student records by knowing the student id | HR01 | Implemented |
+| LR02      | Admin can delete student record by knowing his id and what to delete     |   HR02  | Implemented |
+| LR03 | Admin can create the student record  by unique id    | HR03   | Implemented |
+| LR04 | Admin can save and read the files od student by getting student name, id     |   HR04 | Implemented |
+| LR05 | Admin can search the student details by entering valid student roll number     |   HR05 | Implemented |
+
