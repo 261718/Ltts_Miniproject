@@ -26,9 +26,9 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
  No. |  Challenge   |    Solution    | 
 -------|---------|----------------|
  
- 1.| I have found difficult  For drawing the Usecse, Activity, Architectural, designing the overview. | so i have used Creatively website.| 
- 2.| In implementing the main code i have felt some difficult  | so i have used some code where i refered from the Internet.| 
- 3.| Also  i found difficult to draw tables. | so i refered markdown cheat sheet.|
+ 1 | I have found difficult  For drawing the Usecse, Activity, Architectural, designing the overview | so i have used Creatively website| 
+ 2 | In implementing the main code i have felt some difficult  | so i have used some code where i refered from the Internet| 
+ 3 | Also  i found difficult to draw tables | so i refered markdown cheat sheet|
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
