@@ -31,7 +31,7 @@ int main()
   RUN_TEST(test_get_password);
   
 
-  /* Close the Unity Test Framework */
+ /* Close the Unity Test Framework */
   return UNITY_END();
 }
 
