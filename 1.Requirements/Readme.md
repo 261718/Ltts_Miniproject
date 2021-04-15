@@ -58,11 +58,11 @@ This can be done by aquiring the knowledge on computer and the latest technology
 | ID        | Description          | status (Implemented/Future)  |
 | ------------- |:-------------:| -----:|
 | HR01          | Admin can update new student records | Technically implemented |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| HR02      | Admin can delete student record      |   Technically implemented  |
+| HR03 | Admin can create the student record      |  Technically implemented   |
+| HR04 | Admin can save and read the files od student     |   Technically implemented |
+| HR05 | Admin can search the student details      |   Technically implemented |
 
-HR01 | Admin can update the student records | Status (Technically imlemented)
--- ID | Description | Status (Implemented/Future)
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
