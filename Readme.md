@@ -19,8 +19,15 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+261718 | Vegulla Naga Sai Sowmitri  | Feature A,B,C,D  | X No     | X No   |X No   |X No   
+
+Feature Id            | Feature
+-------------------| -----------------------------------------
+A   | Entering student details and saving into the file
+B         | Updating the student details
+C | Searching the student details
+D      | we can delete the student details whom we want to delete
+    
 
 ## Challenges Faced and How Was It Overcome
  No. |  Challenge   |    Solution    | 
