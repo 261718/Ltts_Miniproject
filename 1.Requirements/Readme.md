@@ -1,4 +1,3 @@
-![Screenshot (1967)](https://user-images.githubusercontent.com/80752698/114759225-87370400-9d7b-11eb-90eb-cdb1d7076863.png)
 # Requirements
 ## Introduction
  In todays situation it is very difficult task to get the details of each student and update or modify his/her details. so to make an easy task for the school management to get and store the details of each and every student. By using this we can track any number of students database.
@@ -23,7 +22,7 @@ Futuristic student record management system is inbuilt with robust dashboards & 
 -- Content 
 ## Defining Our System
 This is the work flow of our system
-https://github.com/261718/Ltts_Miniproject/blob/e420fd40b792f96b892555422d5370a503bc67bc/1.Requirements/Screenshot%20(1967).png
+![Screenshot (1967)](https://user-images.githubusercontent.com/80752698/114759225-87370400-9d7b-11eb-90eb-cdb1d7076863.png)
 
    
     
