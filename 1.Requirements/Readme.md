@@ -18,16 +18,24 @@ One of the key benefits of these systems is that the user can track each and eve
 Futuristic student record management system is inbuilt with robust dashboards & analytics, which makes it easier for you to track what work completed and by whom, and what’s pending. The best thing is you get all the necessary information on a single screen, which helps you get a broader picture of overall data.
 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+| Time        | Feature          | cost  |
+| ------------- |:-------------:| -----:|
+| 1991         | Paper based management system | 1000k INR |
+| 1996     | Paper based management system     |   700K INR  |
+| 1999 | Computer based system      |  500k INR   |
+| 2005 | Computer based system with some extra features    |   300K INR |
+| At present | Application software  |   50K INR |
+
 ## Defining Our System
-This is the work flow of our system
+Here we are using some actions to define our system. They are :
+     1) Create record
+     2) Read record
+     3) Update record
+     4) Delete record
 ![Screenshot (1967)](https://user-images.githubusercontent.com/80752698/114759225-87370400-9d7b-11eb-90eb-cdb1d7076863.png)
 
    
-    
-    
-## SWOT ANALYSIS
+ ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
 # 4W&#39;s and 1&#39;H
