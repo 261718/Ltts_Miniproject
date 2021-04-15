@@ -1,9 +1,9 @@
 #include "unity.h"
-#include <calculator_operations.h>
+#include <func.h>
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
+#include <func.h>
+#define PROJECT_NAME    "Student Record System"
 
 /* Prototypes for all the test functions */
 void test_add_student(void);
@@ -37,7 +37,7 @@ int main()
 
 /* Write all the test functions */ 
 void get_password(void) {
-  TEST_ASSERT_EQUAL("sow", get_password("sow"));
+  TEST_ASSERT_EQUAL(sow, get_password(sow));
   //TEST_ASSERT_EQUAL(-10, add(10, -20));
   //TEST_ASSERT_EQUAL(-30, add(-10, -20));
   //TEST_ASSERT_EQUAL(10, add(-10, 20));
