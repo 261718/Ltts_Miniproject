@@ -10,7 +10,7 @@ src/main code student record system.cpp
 
 # All test source files
 TEST_SRC = src/main code student record system.cpp\
-test/student_record_operations.c\
+test/test_student_record_operations.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
