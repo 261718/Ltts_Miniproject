@@ -1,15 +1,15 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = Student Record System
 
 # Output directory
 BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/calculator_operations.c
+src/main code student record system.cpp
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
+TEST_SRC = src/main code student record system.cpp\
 test/test_calculator_operations.c\
 unity/unity.c\
 
