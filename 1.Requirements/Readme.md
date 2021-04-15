@@ -55,10 +55,9 @@ This can be done by aquiring the knowledge on computer and the latest technology
 # Detail requirements
 ## High Level Requirements:
  
- ID | Description | Status (Implemented/Future)
- | ID        | Description          | status (Implemented/Future)  |
+| ID        | Description          | status (Implemented/Future)  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| HR01          | Admin can update new student records | Technically implemented |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
