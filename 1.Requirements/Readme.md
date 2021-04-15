@@ -54,9 +54,10 @@ This can be done by aquiring the knowledge on computer and the latest technology
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
+ 
 -- ID | Description | Status (Implemented/Future)
-
+-- HR01 | Admin can update the student records | Status (Technically imlemented)
+-- ID | Description | Status (Implemented/Future)
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
