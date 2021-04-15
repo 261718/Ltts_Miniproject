@@ -36,7 +36,7 @@ Here we are using some actions to define our system. They are :
 
    
  ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/261718/Ltts_Miniproject/blob/105716ecf9ba4a360d2541fe737a947e639c1215/1.Requirements/Swot%20Analysis.png)
 
 # 4W&#39;s and 1&#39;H
 
