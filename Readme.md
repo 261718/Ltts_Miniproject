@@ -4,7 +4,7 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
- NA | [![Code Quality - Static Code - Cppcheck](https://github.com/261718/Ltts_Miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/261718/Ltts_Miniproject/actions/workflows/cppcheck.yml)| NA | [![Contribution Check - Git Inspector](https://github.com/261718/Ltts_Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/261718/Ltts_Miniproject/actions/workflows/gitinspector.yml)
+ NA | [![Code Quality - Static Code - Cppcheck](https://github.com/261718/Ltts_Miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/261718/Ltts_Miniproject/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/261718/Ltts_Miniproject/actions/workflows/unity.yml/badge.svg)](https://github.com/261718/Ltts_Miniproject/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/261718/Ltts_Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/261718/Ltts_Miniproject/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
