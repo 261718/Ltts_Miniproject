@@ -6,10 +6,10 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/main code student record system.cpp
+src/main _code_student_record_system.cpp
 
 # All test source files
-TEST_SRC = src/main code student record system.cpp\
+TEST_SRC = src/main _code_student_record_system.cpp\
 test/test_student_record_operations.c\
 unity/unity.c\
 
